@@ -1,0 +1,42 @@
+h1{
+    font-size: 20pt;
+    font-family:Arial;    
+}
+header{
+    background-color: bisque;
+    float: right;
+    font-size: 15pt;
+    color: sienna;
+    width: 90%;
+        
+}
+body{
+    background-color: bisque;
+    line-height: 1.0;   
+}
+li{
+    font-size: 15pt;
+    font-family: Arial;
+    color:black;
+    margin-bottom: 1px;
+    padding: 1px
+}
+p{
+    font-size: 15pt;
+    font-family: Arial;
+    color: black;
+    
+}
+strong{
+    font-size: 15pt;
+    font-family: Arial;
+    color:black
+}
+div{
+    font-size: 15pt;
+    font-family: Arial;
+    color: black
+}
+img{
+    width:10%;
+}
